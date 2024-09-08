@@ -4,7 +4,7 @@ date = 2019-01-06T16:47:28.000000Z
 aliases = ['/kiteboarding-101-how-to-get-up']
 +++
 
-![](/kiteboarding-101-how-to-get-up.jpg)
+![](/4ef125c4-6f78-4952-b2c4-e83821213bca.jpg)
 
 For me, it was the hardest part. I thought I was never going to get it. It's kind of something you need to know. Without it, there's no kiting for you. Today's lesson: Getting up.
 
