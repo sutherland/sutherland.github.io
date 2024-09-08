@@ -1,6 +1,7 @@
 +++
 title = 'Kiteboarding 101: How to Get Up'
 date = 2019-01-06T16:47:28.000000Z
+aliases = ['/kiteboarding-101-how-to-get-up']
 +++
 
 ![](/kiteboarding-101-how-to-get-up.jpg)
